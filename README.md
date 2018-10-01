@@ -1,1 +1,1 @@
-# gesellenstueck
+# Digitales Gesellenstück
