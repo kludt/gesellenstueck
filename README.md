@@ -14,7 +14,7 @@ The data used in this project are nearly 70.000 abstracts on the subject of vita
     - use an ML algorithm to classify the abstracts which could not be labeled by hand
         - use different text to vector algorithms (count vectorize & td-idf)
         - as MVP logistic regression is chosen, if not satisfactory Support Vector Machines are used as they do not overfit easily with wide data and according to literature have been used for text classification before
-    - try out different Topic Modeling algorithms (NFM & LDA) 
+- try out different Topic Modeling algorithms (NFM & LDA) 
 
 ### Challenges
 - getting features out of a text
